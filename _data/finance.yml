@@ -49,6 +49,12 @@ websites:
       custom:
         - icon: key
           url: https://us.etrade.com/e/t/estation/pricing?id=1220801000
+          
+    - name: Fidelity
+      img: fidelity.png
+      url: https://www.fidelity.com/
+      twitter: fidelity
+      tfa: No
 
     - name: Mint
       url: https://www.mint.com
